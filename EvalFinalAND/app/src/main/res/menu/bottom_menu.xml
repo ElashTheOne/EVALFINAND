@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/movieSearchFragment"
+        android:title="@string/search"
+        android:icon="@drawable/car_ui_icon_search"
+        />
+
+    <item
+        android:id="@+id/trendingFragment"
+        android:title="@string/trending"
+        android:icon="@drawable/car_ui_icon_add"
+
+        />
+</menu>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FinalEvo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back">Back</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="similar_movies">Similar Movies</string>
+    <string name="movie_title">movie title</string>
+    <string name="search">Search</string>
+    <string name="movie_card">movie card</string>
+    <string name="little_movie_card">little movie card</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="trending">Trending</string>
+</resources>
